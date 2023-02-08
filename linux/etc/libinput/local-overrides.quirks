@@ -1,0 +1,9 @@
+[Dell 5280 2in1]
+MatchName=AT Translated Set 2 keyboard
+MatchUdevType=keyboard
+MatchDMIModalias=dmi:*svnDellInc.:*
+MatchBus=ps2
+# setting
+ModelTabletModeNoSuspend=1
+AttrKeyboardIntegration=internal
+#AttrKeyboardIntegration=external

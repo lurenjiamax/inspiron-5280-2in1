@@ -1,0 +1,6 @@
+#Grub cfg backup for Archlinux 
+
+Fix for death of sleep after close the lid.
+- GRUB_CMDLINE_LINUX_DEFAULT="acpi_rev_override=1 acpi_osi=Linux mem_sleep_default=deep loglevel=3"
+
+ 
